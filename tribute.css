@@ -4,17 +4,17 @@
 }
 
 body{
-    background-color: red;
+    background-color:aqua;
 }
 
 .main-box {
-    border: 5px solid purple;
     width: 85vw;
     margin: 20px auto;
     background-image:url("memory/flag.jpg");
     background-size: cover;
     background-position: 0% 30%;
     padding: 40px;
+    border-radius: 10px;
 }
 
 .box1 {
